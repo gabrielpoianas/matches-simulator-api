@@ -1,5 +1,5 @@
 [
-  {
+    {
     "descricao": "Eliminatória Copa do Mundo 2022",
     "local": {
       "nome": "Maracanã",
@@ -15,7 +15,7 @@
       "forca": 5,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
     }
-  } 
+  }, 
     {
     "descricao": "Eliminatória Copa do Mundo 2022",
     "local": {
@@ -32,7 +32,7 @@
       "forca": 5,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
     }
-  } 
+  }, 
   {
     "descricao": "Eliminatória Copa do Mundo 2022",
     "local": {
